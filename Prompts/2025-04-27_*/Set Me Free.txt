@@ -1,0 +1,53 @@
+﻿“Neon-Vice Synth-Fusion, 1984 – 1987”
+
+Core groove & tempo
+114 BPM 4 / 4; laid-back but driving.
+
+LinnDrum kick on every beat; crisp rim-snare on 2 & 4 with gated plate; closed-hat 16-note shuffle, opening slightly on bar transitions. 
+reverb.com
+
+Simmons tom-roll flourishes (pitch-bent) cue scene changes; occasional reverse-cymbal swell for tension.
+
+Bass & rhythm
+Jupiter-8 random-arpeggio bass patch set to minor-add-9, filter opens during choruses for turbo lift. 
+Synthtopia
+
+Sub-octave Moog square subtly doubles downbeats for cinematic weight.
+
+Syncopated conga loop (12-bit sampler) side-chained gently to kick for beach-club bounce.
+
+Synths & leads
+Fairlight CMI/Emulator II vocal-choir stabs punctuate pre-chorus; wide stereo, 600 ms hall tail. 
+ModWiggler
+
+DX7 “Koto” pluck arpeggio ticks on the off-beats, low-passed in verses then brightened for chorus sparkle. 
+Synthtopia
+
+Hero lead: Memorymoog / Minimoog stack, overdriven through guitar amp + delay; extensive pitch-wheel bends and vibrato for “synth-guitar” swagger. 
+Reddit
+Equipboard
+
+Guitars & textures
+Clean Strat palm-mutes with chorus + slap-back echo answer synth phrases, panned 35° L.
+
+Distant fretless-bass slides (chorused) add noir undertones beneath bridge.
+
+Ocean-wave field recording (-24 dB) pads intro/outro; seagull-like synth FX glide across stereo field.
+
+Arrangement cues
+Intro: 4 bars VHS hiss + Fairlight pad → LinnDrum enters bar 5 → Jupiter-8 arpeggio bar 9 → Memorymoog lead soars bar 13.
+
+Verse 2: Drop hats; DX7 pluck and congas carry groove while lead holds long-delay swells.
+
+Bridge: Half-time; Fairlight choir swells, Simmons tom cadence, guitar feedback fade-ins.
+
+Final chorus: Everything full; arpeggio doubles tempo, lead dives octave with whammy bends, gated-reverb snare widens stereo.
+
+Outro: Kick and bass fade; pad and ocean FX remain, tape-stop on last synth chord.
+
+Mix & vibe
+Drum bus mono-center; synth pads ±60°, lead parked center-front with slap-delay (120 ms) + 2.0 s plate.
+
+Heavy 15 ips tape-sat on master for warm grit; highs rolled at 14 kHz to evoke 80s TV broadcast.
+
+Overall mood: pastel-sunset speedboats, chrome handguns, and slow-motion night drives down Ocean Drive—sleek, suspenseful, and irresistibly cool.
